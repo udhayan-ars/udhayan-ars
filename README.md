@@ -60,13 +60,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udhayan-ars&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayan-ars&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=github-dark-blue&hide_border=true" />
