@@ -1,67 +1,74 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **ARS UDHAYAN**
+# 👋 Hi, I'm ARS UDHAYAN
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Future+SOC+Analyst;Cyber+Forensics+Learner;Linux+%7C+Networking+%7C+Ethical+Hacking;CTF+Player+%F0%9F%9A%A9" />
+### 🛡️ Cyber Security Student
 
-<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+### 🔍 Future SOC Analyst | Cyber Forensics Learner
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;Cyber+Forensics;CTF+Player" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
 
+# 💻 Terminal
+
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                  SYSTEM STATUS : ONLINE                    │
-├────────────────────────────────────────────────────────────┤
-│ Name      : ARS UDHAYAN                                   │
-│ Role      : Cyber Security Student                        │
-│ Target    : SOC L1 Analyst                                │
-│ Focus     : Cyber Forensics                               │
-│ Status    : Learning • Building • Hacking                 │
-└────────────────────────────────────────────────────────────┘
-```
-
-# 👨‍💻 About Me
-
-```yaml
-Name      : ARS UDHAYAN
-Education : B.E CSE (Cyber Security)
-
-Currently Learning:
-  - Linux
-  - Networking
-  - Web Security
-  - Ethical Hacking
-  - Digital Forensics
-
-Goals:
-  - SOC Analyst
-  - Incident Response
-  - Threat Hunting
+┌───────────────────────────────────────────────┐
+│               SYSTEM STATUS                   │
+├───────────────────────────────────────────────┤
+│ Name    : ARS UDHAYAN                         │
+│ Role    : Cyber Security Student              │
+│ Target  : SOC L1 Analyst                      │
+│ Focus   : Cyber Forensics                     │
+│ Status  : Learning Every Day                  │
+└───────────────────────────────────────────────┘
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 👨‍💻 About Me
+
+- 🎓 B.E. Computer Science & Engineering (Cyber Security)
+- 🛡️ Aspiring SOC L1 Analyst
+- 🔍 Interested in Cyber Forensics
+- 🐧 Learning Linux & Networking
+- 🌐 Learning Web Security
+- 🚩 Solving CTF Challenges
+- 💻 Building Security Projects
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&perline=5"/>
+</p>
+
+### 🔐 Security Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&perline=9"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UTM-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple"/>
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
 
 </p>
-
-### 🛡️ Security Tools
-
-```text
-🛡️ Burp Suite
-📡 Wireshark
-🔍 Nmap
-💻 UTM
-🍎 macOS
-🪟 Windows
-🎨 Canva
-```
 
 ---
 
@@ -83,21 +90,11 @@ Goals:
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=udhayan-ars&theme=matrix&margin-w=15"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ars-udhayan-0783b7294">
+<a href="https://www.linkedin.com/in/ars-udhayan-0783b7294/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -111,13 +108,18 @@ Goals:
 
 <div align="center">
 
+## 🚀 Mission
+
 ```text
-root@ars-udhayan:~$ whoami
+root@ars:~$ whoami
 
 ARS UDHAYAN
+
 Cyber Security Student
+
 Future SOC Analyst
-Never Stop Learning...
+
+Never Stop Learning.
 ```
 
 </div>
