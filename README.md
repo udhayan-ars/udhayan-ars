@@ -8,7 +8,6 @@
 - 🎯 Aspiring SOC Analyst
 - 🐧 Learning Linux & Networking
 - 🌐 Learning Web Security
-- 🚩 CTF Player
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +20,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn 
-- GitHub
+- instagram
 
 <!--
 **udhayan-ars/udhayan-ars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
