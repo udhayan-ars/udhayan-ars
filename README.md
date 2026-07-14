@@ -9,13 +9,9 @@
 - 🐧 Learning Linux & Networking
 - 🌐 Learning Web Security
 
-## 🛠️ Tech Stack
-
-- Linux
-- Git
-- Wireshark
-- Burp Suite
-- Nmap
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,c,git,github,bash,vscode" />
+</p>
 
 ## 📫 Connect With Me
 
