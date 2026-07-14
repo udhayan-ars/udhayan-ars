@@ -1,68 +1,58 @@
 <div align="center">
 
-# 👋 Hi, I'm ARS UDHAYAN
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **ARS UDHAYAN**
 
-### 🛡️ Cyber Security Student
+### 🛡️ Cyber Security Student • 🔍 SOC Analyst Aspirant • 💻 Cyber Forensics Learner
 
-### 🔍 Future SOC Analyst | Cyber Forensics Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;CTF+Player;Always+Learning+New+Things" />
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;Cyber+Forensics;CTF+Player" />
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 Terminal
-
-```text
-┌───────────────────────────────────────────────┐
-│               SYSTEM STATUS                   │
-├───────────────────────────────────────────────┤
-│ Name    : ARS UDHAYAN                         │
-│ Role    : Cyber Security Student              │
-│ Target  : SOC L1 Analyst                      │
-│ Focus   : Cyber Forensics                     │
-│ Status  : Learning Every Day                  │
-└───────────────────────────────────────────────┘
-```
-
----
-
 # 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering (Cyber Security)
-- 🛡️ Aspiring SOC L1 Analyst
-- 🔍 Interested in Cyber Forensics
-- 🐧 Learning Linux & Networking
-- 🌐 Learning Web Security
-- 🚩 Solving CTF Challenges
-- 💻 Building Security Projects
+✨ **Name:** ARS UDHAYAN
+
+🎓 **B.E CSE (Cyber Security)**
+
+🛡️ **Aspiring SOC L1 Analyst**
+
+🔍 **Interested in Cyber Forensics**
+
+🐧 **Learning Linux, Networking & Ethical Hacking**
+
+🚩 **CTF Player & Security Enthusiast**
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&theme=light"/>
+
 </p>
 
-### 🔐 Security Tools
+---
+
+# 🛠️ Security Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/UTM-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple"/>
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
 
@@ -76,15 +66,25 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayan-ars&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayan-ars&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayan-ars&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayan-ars&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=udhayan-ars&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -108,18 +108,19 @@
 
 <div align="center">
 
-## 🚀 Mission
+## 💻 Terminal
 
 ```text
-root@ars:~$ whoami
-
-ARS UDHAYAN
-
-Cyber Security Student
-
-Future SOC Analyst
-
-Never Stop Learning.
+┌──────────────────────────────────────────────┐
+│ root@ars:~$ whoami                           │
+├──────────────────────────────────────────────┤
+│ 👤 ARS UDHAYAN                               │
+│ 🛡️ Cyber Security Student                    │
+│ 🎯 Future SOC Analyst                        │
+│ 🚀 Never Stop Learning                       │
+└──────────────────────────────────────────────┘
 ```
+
+⭐ Thanks for visiting my profile!
 
 </div>
