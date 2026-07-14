@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm ARS UDHAYAN
+
+## 🛡️ Cyber Security Student
+
+- 🎓 B.E CSE (Cyber Security)
+- 🎯 Aspiring SOC Analyst
+- 🐧 Learning Linux & Networking
+- 🌐 Learning Web Security
+- 🚩 CTF Player
+
+## 🛠️ Tech Stack
+
+- Linux
+- Git
+- Wireshark
+- Burp Suite
+- Nmap
+
+## 📫 Connect With Me
+
+- LinkedIn 
+- GitHub
+
 <!--
 **udhayan-ars/udhayan-ars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
