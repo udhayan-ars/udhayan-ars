@@ -1,32 +1,28 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **ARS UDHAYAN**
+# 👋 Hi, I'm **ARS UDHAYAN**
 
-### 🛡️ Cyber Security Student • 🔍 SOC Analyst Aspirant • 💻 Cyber Forensics Learner
+### 🛡️ Cyber Security Student | 🔍 SOC Analyst Aspirant | 💻 Cyber Forensics Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;CTF+Player;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;Cyber+Forensics;CTF+Player;Always+Learning..." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-✨ **Name:** ARS UDHAYAN
-
-🎓 **B.E CSE (Cyber Security)**
-
-🛡️ **Aspiring SOC L1 Analyst**
-
-🔍 **Interested in Cyber Forensics**
-
-🐧 **Learning Linux, Networking & Ethical Hacking**
-
-🚩 **CTF Player & Security Enthusiast**
+- 🎓 **B.E Computer Science & Engineering (Cyber Security)**
+- 🛡️ **Aspiring SOC L1 Analyst**
+- 🔍 **Interested in Cyber Forensics**
+- 🐧 **Learning Linux, Networking & Ethical Hacking**
+- 🌐 **Passionate about Web Security**
+- 🚩 **Solving CTF Challenges**
+- 💻 **Building Hands-on Security Projects**
 
 ---
 
@@ -34,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&theme=light"/>
+<img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&theme=light&perline=5"/>
 
 </p>
 
@@ -66,25 +62,25 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayan-ars&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=udhayan-ars&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayan-ars&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayan-ars&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=udhayan-ars&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udhayan-ars&theme=tokyo-night"/>
 
 </p>
 
@@ -95,32 +91,42 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ars-udhayan-0783b7294/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/mr.mac_user">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://github.com/udhayan-ars">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+# 💻 Terminal
+
+```text
+┌───────────────────────────────────────────────┐
+│ root@ars:~$ whoami                            │
+├───────────────────────────────────────────────┤
+│ 👤 ARS UDHAYAN                                │
+│ 🛡️ Cyber Security Student                     │
+│ 🎯 Future SOC Analyst                         │
+│ 🔍 Cyber Forensics Learner                    │
+│ 🚩 CTF Player                                 │
+│ 📚 Never Stop Learning                        │
+└───────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-## 💻 Terminal
+### ⭐ Thanks for visiting my profile!
 
-```text
-┌──────────────────────────────────────────────┐
-│ root@ars:~$ whoami                           │
-├──────────────────────────────────────────────┤
-│ 👤 ARS UDHAYAN                               │
-│ 🛡️ Cyber Security Student                    │
-│ 🎯 Future SOC Analyst                        │
-│ 🚀 Never Stop Learning                       │
-└──────────────────────────────────────────────┘
-```
-
-⭐ Thanks for visiting my profile!
+*"Hack the system. Secure the future."*
 
 </div>
