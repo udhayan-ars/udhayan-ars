@@ -10,8 +10,19 @@
 - 🌐 Learning Web Security
 
 ## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=linux,,,git,github,bash,vscode,linux,nmap,burp suite" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css" />
+</p>
+
+<p align="left">
+  🛡️ Burp Suite &nbsp;&nbsp;
+  📡 Wireshark &nbsp;&nbsp;
+  🔍 Nmap &nbsp;&nbsp;
+  💻 UTM &nbsp;&nbsp;
+  🎨 Canva &nbsp;&nbsp;
+  🍎 macOS &nbsp;&nbsp;
+  🪟 Windows
 </p>
 
 ## 🌐 Connect With Me
