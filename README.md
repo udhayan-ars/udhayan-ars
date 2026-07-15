@@ -14,12 +14,12 @@
 
 ---
 
+# 💫 About Me
+
 <table>
 <tr>
 
-<td width="55%" valign="top">
-
-# 💫 About Me
+<td width="55%">
 
 - 🎓 **B.E Computer Science & Engineering (Cyber Security)**
 - 🛡️ **Aspiring SOC L1 Analyst**
@@ -33,7 +33,7 @@
 
 <td width="45%" align="center">
 
-<img src="./macbook-hacker.gif" width="350"/>
+<img src="./hacker.gif" width="350"/>
 
 </td>
 
