@@ -1,9 +1,5 @@
 ## ABOUT ME
-<h1 align="center">
 
-  <span style="color:#00FF41;">ABOUT ME</span>
-
-</h1>
 <table>
 <tr>
 <td width="55%" valign="top">
