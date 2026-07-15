@@ -14,22 +14,28 @@
 
 ---
 
+## 💫 About Me
+
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%" valign="top">
 
-## 💫 About Me
+- 🎓 **B.E Computer Science & Engineering (Cyber Security)**
+- 🛡️ **Aspiring SOC L1 Analyst**
+- 🔍 **Interested in Cyber Forensics**
+- 🐧 **Learning Linux, Networking & Ethical Hacking**
+- 🌐 **Passionate about Web Security**
+- 🚩 **Solving CTF Challenges**
+- 💻 **Building Hands-on Security Projects**
 
-- 🎓 B.E Computer Science & Engineering (Cyber Security)
-- 🛡️ Aspiring SOC L1 Analyst
-- 🔍 Interested in Cyber Forensics
-- 🐧 Learning Linux, Networking & Ethical Hacking
-- 🌐 Passionate about Web Security
-- 🚩 Solving CTF Challenges
-- 💻 Building Hands-on Security Projects
+</td>
 
-<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/macbook-hacker.png" width="330"/>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/hacker.gif" width="350"/>
+
+</td>
 
 </tr>
 </table>
