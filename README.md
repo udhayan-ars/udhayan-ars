@@ -1,4 +1,4 @@
-## 💫 About Me
+## ABOUT ME
 
 <table>
 <tr>
@@ -24,7 +24,7 @@
 
 ---
 
-# 🚀 Tech Stack
+# TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&theme=light&perline=5"/>
@@ -32,7 +32,7 @@
 
 ---
 
-# 🛠️ Security Tools
+#  SECURITY TOOLS
 
 <p align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GITHUB STATS
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=github-dark-blue&hide_border=true"/>
@@ -62,7 +62,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+#  GITHUB ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udhayan-ars&theme=chartreuse-dark"/>
@@ -70,7 +70,7 @@
 
 ---
 
-# 🌐 Connect With Me
+#  CONNECT WITH ME
 
 <p align="center">
 
@@ -90,7 +90,7 @@
 
 ---
 
-# 💻 Terminal
+#  TERMINAL
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
