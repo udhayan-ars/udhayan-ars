@@ -33,7 +33,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/hacker.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/macbook-hacker.png" width="400"/>
 
 </td>
 
