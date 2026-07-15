@@ -15,7 +15,9 @@
 ---
 
 ## 💫 About Me
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:00FF41&height=60&section=header&text=💫%20About%20Me&fontColor=00FF41&fontSize=32&stroke=FF0000&strokeWidth=2"/>
+</p>
 <table>
 <tr>
 
