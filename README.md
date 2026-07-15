@@ -1,47 +1,33 @@
-<div align="center">
-
-# 👋 Hi, I'm **ARS UDHAYAN**
-
-### 🛡️ Cyber Security Student | 🔍 SOC Analyst Aspirant | 💻 Cyber Forensics Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Future+SOC+Analyst;Linux+%7C+Networking;Ethical+Hacking;Cyber+Forensics;CTF+Player;Always+Learning..." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=udhayan-ars&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:00FF41&height=60&section=header&text=💫%20About%20Me&fontColor=00FF41&fontSize=32&stroke=FF0000&strokeWidth=2"/>
-</p> 
-
-
-
 ## 💫 About Me
 
-- 🎓 B.E Computer Science & Engineering (Cyber Security)
-- 🛡️ Aspiring SOC L1 Analyst
-- 🔎 Interested in Cyber Forensics
-- 🐧 Learning Linux, Networking & Ethical Hacking
-- 🌐 Passionate about Web Security
-- 🚩 Solving CTF Challenges
-- 💻 Building Hands-on Security Projects
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<br>
+- 🎓 **B.E Computer Science & Engineering (Cyber Security)**
+- 🛡️ **Aspiring SOC L1 Analyst**
+- 🔎 **Interested in Cyber Forensics**
+- 🐧 **Learning Linux, Networking & Ethical Hacking**
+- 🌐 **Passionate about Web Security**
+- 🚩 **Solving CTF Challenges**
+- 💻 **Building Hands-on Security Projects**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/macbook-hacker.png" width="700"/>
-</p>
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/macbook-hacker.png" width="420"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,c,python,git,github,bash,vscode,html,css&theme=light&perline=5"/>
-
 </p>
 
 ---
@@ -68,18 +54,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=udhayan-ars&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
-
-
-
 
 # 📈 GitHub Activity Graph
 
