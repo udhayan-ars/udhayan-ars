@@ -13,15 +13,9 @@
 </div>
 
 ---
-
-<h1 align="center">
-<font color="#00FF41">[ ABOUT_ME ]</font>
-</h1>
-
-<hr style="border:2px solid red;">
-<table>
-<tr>
-
+<p align="center">
+  <img src="./about-me-header.png" alt="ABOUT ME" width="500">
+</p>
 <td width="60%" valign="top">
 
 - 🎓 **B.E Computer Science & Engineering (Cyber Security)**
