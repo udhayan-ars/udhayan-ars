@@ -33,7 +33,7 @@
 
 <td width="45%" align="center">
 
-<img src="./macbook-hacker.png" width="350"/>
+<img src="./macbook-hacker.gif" width="350"/>
 
 </td>
 
