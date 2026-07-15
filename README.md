@@ -29,13 +29,7 @@
 - 🚩 Solving CTF Challenges
 - 💻 Building Hands-on Security Projects
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/hacker.gif" width="350" alt="Cyber Security GIF"/>
-
-</td>
+<img src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/main/macbook-hacker.png" width="330"/>
 
 </tr>
 </table>
@@ -84,7 +78,7 @@
 ---
 
 
-# 📈 GitHub Activity Graph
+
 
 # 📈 GitHub Activity Graph
 
