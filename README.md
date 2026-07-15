@@ -14,6 +14,11 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
 # 💫 About Me
 
 - 🎓 **B.E Computer Science & Engineering (Cyber Security)**
@@ -24,6 +29,16 @@
 - 🚩 **Solving CTF Challenges**
 - 💻 **Building Hands-on Security Projects**
 
+</td>
+
+<td width="45%" align="center">
+
+<img src="macbook-hacker.png" width="330"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🚀 Tech Stack
