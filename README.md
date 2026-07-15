@@ -14,9 +14,8 @@
 
 ---
 <p align="center">
-  <img src="./about-me-header.png" alt="ABOUT ME" width="500">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:00FF41&height=60&section=header&text=💫%20About%20Me&fontColor=00FF41&fontSize=32&stroke=FF0000&strokeWidth=2"/>
 </p>
-<td width="60%" valign="top">
 
 - 🎓 **B.E Computer Science & Engineering (Cyber Security)**
 - 🛡️ **Aspiring SOC L1 Analyst**
