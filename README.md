@@ -64,16 +64,15 @@
 
 #  GITHUB ACTIVITY GRAPH
 
-## GITHUB ACTIVITY GRAPH
+<h2 align="center">GITHUB ACTIVITY GRAPH</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=udhayan-ars&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FFFFFF&area_color=1A1033&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/udhayan-ars/udhayan-ars/output/activity-graph.svg"
     width="100%"
     alt="ARS UDHAYAN GitHub Activity Graph"
   />
 </p>
-
 
 
 
